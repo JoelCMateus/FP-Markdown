@@ -1,6 +1,6 @@
 # FP-Markdown
 ***
-Joel Costa Mateus
+Joel Costa Mateus  
 `2211908`
 ## Linguagens de programação conhecidas:
 * C
@@ -10,4 +10,4 @@ Joel Costa Mateus
 ---
 > Metodologias de Desenvolvimento de Software @ 2022 
 
-![Logo IPL](https://upload.wikimedia.org/wikipedia/commons/9/9a/Log%C3%B3tipo_Polit%C3%A9cnico_Leiria_01.png)
+![Logo IPL](https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png)
